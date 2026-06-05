@@ -1,4 +1,4 @@
-The project from: https://github.com/asiyeturedii/devops-server-performance-stats
+The project from: https://roadmap.sh/projects/server-stats
 
 
 ---
