@@ -1,9 +1,3 @@
-# macOS System Performance & Resource Monitoring Engine
-
-A lightweight, native POSIX-compliant Shell automation utility designed for high-fidelity system telemetry extraction on Darwin (macOS) architectures. This engine operates with **zero external dependencies**, leveraging core system subroutines, kernel state parameters, and advanced stream processing (`awk`) to compile structured, human-readable performance profiles.
-
-# macOS System Performance & Resource Monitoring Engine
-
 ### Project URL
 
 https://github.com/asiyeturedii/devops-server-performance-stats
@@ -13,8 +7,12 @@ https://github.com/asiyeturedii/devops-server-performance-stats
 https://github.com/asiyeturedii/devops-server-performance-stats
 
 ---
+# macOS System Performance & Resource Monitoring Engine
 
----
+A lightweight, native POSIX-compliant Shell automation utility designed for high-fidelity system telemetry extraction on Darwin (macOS) architectures. This engine operates with **zero external dependencies**, leveraging core system subroutines, kernel state parameters, and advanced stream processing (`awk`) to compile structured, human-readable performance profiles.
+
+# macOS System Performance & Resource Monitoring Engine
+
 
 ## 🛠 Architectural Engineering & Technical Roadblocks
 
