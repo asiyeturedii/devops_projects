@@ -1,10 +1,5 @@
-### Project URL
+The project from: https://github.com/asiyeturedii/devops-server-performance-stats
 
-https://github.com/asiyeturedii/devops-server-performance-stats
-
-### Project Page URL
-
-https://github.com/asiyeturedii/devops-server-performance-stats
 
 ---
 # macOS System Performance & Resource Monitoring Engine
